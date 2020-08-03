@@ -1,6 +1,13 @@
 # login_signup
 
-A new Flutter project.
+A new Flutter deview of connecting firebase authentication with login, singup, toogle between login and signup and authentication while opening app.
+
+<img src = "Screenshots/1.JPG">
+<img src = "Screenshots/2.JPG">
+
+Firebase
+
+<img src = "Screenshots/3.JPG">
 
 ## Getting Started
 
